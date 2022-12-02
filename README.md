@@ -1,1 +1,1 @@
-# FMA-Clustering
+Seeds clustering project
