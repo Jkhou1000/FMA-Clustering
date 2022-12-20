@@ -1,7 +1,7 @@
 # **Clustering for Wheat Seeds**
 
 
-### Data 
+## Data 
 
 The [data](https://link.springer.com/chapter/10.1007/978-3-642-13105-9_2) which is used is comprised of 3 different wheat seeds (Kama, Rosa, and Canadian), using high quality visualizations via soft X-ray technoques. 
 
@@ -18,7 +18,7 @@ Using Clustering mechanics allows the wheat seeds to be grouped and have its fea
 7. length of kernel groove.
 
 
-### Metrics and Info
+## Metrics and Info
 KMeans was used to test how well it can group and identify seeds and grouping them together. A data visualization over several features using scatterplots was conducted involving using the class as a hue, seperating/highlighting the 3 groups to make observations on the seeds and compare the results KMeans would make without the use of Kernel Class;![Sneeds](https://user-images.githubusercontent.com/105755535/208737425-e2e8497a-2359-474b-b187-0618a2667829.png)
 
 Afterwards Metrics were taken for KMeans to ascertain the optimal number of clusters, using Inertias and Silhouette Score with 2 different results;
@@ -34,7 +34,8 @@ Silhouette Score said 2 clusters was optimal, while Inertias said 3 was. Both we
 ![K2](https://user-images.githubusercontent.com/105755535/208748040-65153640-1f22-4a9f-977b-9bb93528c8b6.png)
 ![K3](https://user-images.githubusercontent.com/105755535/208748045-257a7713-d9ba-4640-ac48-b5c830cc492b.png)
 
-### Next Steps:
+## Next Steps:
 Use on bigger datasets may be required to see if 3 clusters is optimal for the same seeds in largers sizes. Test out different types of clutsering methods to see if other models are more accurate. Create more exploratory Data Viz.
 
 
+0
