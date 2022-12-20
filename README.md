@@ -17,4 +17,16 @@ Using Clustering mechanics allows the wheat seeds to be grouped and have its fea
 
 
 ### Metrics and Info
-KMeans was used to test how well it can group and identify seeds and grouping them together. A data visualization over several features using scatterplots was conducted involving using the class as a hue, seperating/highlighting the 3 groups to make observations on the seeds and compare the results KMeans would make without the use of Kernel Class.![Sneeds](https://user-images.githubusercontent.com/105755535/208737425-e2e8497a-2359-474b-b187-0618a2667829.png)
+KMeans was used to test how well it can group and identify seeds and grouping them together. A data visualization over several features using scatterplots was conducted involving using the class as a hue, seperating/highlighting the 3 groups to make observations on the seeds and compare the results KMeans would make without the use of Kernel Class;![Sneeds](https://user-images.githubusercontent.com/105755535/208737425-e2e8497a-2359-474b-b187-0618a2667829.png)
+
+Afterwards Metrics were taken for KMeans to ascertain the optimal number of clusters, using Inertias and Silhouette Score with 2 different results;
+
+![Sil_Score](https://user-images.githubusercontent.com/105755535/208739501-51bf478e-7b60-4b7e-91d2-c61950a86c25.png)
+![image](https://user-images.githubusercontent.com/105755535/208739633-b9b0754e-ac59-4d78-a988-333c8c8e031d.png)
+
+Silhouette Score said 2 clusters was optimal, while Inertias said 3 was. Both were tested out, unsuprisingly, KMeans with 3 clusters was the best amount for this particular set of data, although KMeans 2's predictions were similar to 3's in some ways such as the prediction sequence and recognition of the latter halves differences in features, but again lacking the ability to group them into 3 clusters meant KMeans 2 defaulted them into cluster 0.
+
+
+
+
+
