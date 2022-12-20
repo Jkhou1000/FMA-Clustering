@@ -1,7 +1,7 @@
 # **Clustering for Wheat Seeds**
 
 
-### Seed clusters data 
+### Data 
 
 The [data](https://link.springer.com/chapter/10.1007/978-3-642-13105-9_2) which is used is comprised of 3 different wheat seeds (Kama, Rosa, and Canadian), using high quality visualizations via soft X-ray technoques. It is inexpensive and cheaper than more sophisticated imaging techniques, and were recorded on 12X18 KODAK plates. This data has use as a means to indetify differing variants of wheat for multiple purposes, namely pest and disease identifcation, genetic research, and food allergens & regulations. 
 
@@ -24,9 +24,15 @@ Afterwards Metrics were taken for KMeans to ascertain the optimal number of clus
 ![Sil_Score](https://user-images.githubusercontent.com/105755535/208739501-51bf478e-7b60-4b7e-91d2-c61950a86c25.png)
 ![image](https://user-images.githubusercontent.com/105755535/208739633-b9b0754e-ac59-4d78-a988-333c8c8e031d.png)
 
-Silhouette Score said 2 clusters was optimal, while Inertias said 3 was. Both were tested out, unsuprisingly, KMeans with 3 clusters was the best amount for this particular set of data, although KMeans 2's predictions were similar to 3's in some ways such as the prediction sequence and recognition of the latter halves differences in features, but again lacking the ability to group them into 3 clusters meant KMeans 2 defaulted them into cluster 0.
+Silhouette Score said 2 clusters was optimal, while Inertias said 3 was. Both were tested out, unsuprisingly, KMeans with 3 clusters was the best amount for this particular set of data, although KMeans 2's predictions were similar to 3's in some ways such as the prediction sequence and recognition of the latter halves differences in features, but again lacking the ability to group them into 3 clusters meant KMeans 2 defaulted them into cluster 0. Broad analyses were made in order to compare to the previous scatterplot and data using the averages in each cluster. Below are the Clusters scatterplots and the Cluster's Feature average/mean plots.
 
+![K2scatter](https://user-images.githubusercontent.com/105755535/208749307-e63dedc6-02f2-45f6-969f-a225acc01972.png)
+![K3Scatter](https://user-images.githubusercontent.com/105755535/208749318-14384372-88f2-491f-a67b-8717b200a955.png)
 
+![K2](https://user-images.githubusercontent.com/105755535/208748040-65153640-1f22-4a9f-977b-9bb93528c8b6.png)
+![K3](https://user-images.githubusercontent.com/105755535/208748045-257a7713-d9ba-4640-ac48-b5c830cc492b.png)
 
+### Next Steps:
+Use on bigger datasets may be required to see if 3 clusters is optimal for the same seeds in largers sizes. Test out different types of clutsering methods to see if other models are more accurate. Create more exploratory Data Viz.
 
 
