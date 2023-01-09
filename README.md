@@ -38,4 +38,15 @@ Silhouette Score said 2 clusters was optimal, while Inertias said 3 was. Both we
 Use on bigger datasets may be required to see if 3 clusters is optimal for the same seeds in largers sizes. Test out different types of clutsering methods to see if other models are more accurate. Create more exploratory Data Viz.
 
 
-0
+## Data Sources
+Institute of Agrophysics of the Polish Academy of Sciences in Lublin
+
+Piotr Kulczycki, Piotr A. Kowalski, Szymon Lukasik, Slawomir Zak Department of Automatic Control and Information Technology,
+Cracow University of Technology, Warszawska 24, PL 31-155 Cracow, Poland and Systems Research Institute, Polish Academy of Sciences, Newelska 6,
+PL 01-447 Warsaw, Poland e-mail: {kulczycki,pakowal,slukasik,slzak}@ibspan.waw.pl
+
+MaÅ‚gorzata Charytanowicz, Jerzy Niewczas Institute of Mathematics and Computer Science, The John Paul II Catholic University of Lublin, KonstantynÃ³w 1 H,
+PL 20-708 Lublin, Poland, e-mail: {mchmat,jniewczas}@kul.lublin.pl
+
+##Contact and Questions
+If you have any questions please contact Jkhoury10000@gmail.com
