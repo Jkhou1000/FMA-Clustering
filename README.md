@@ -43,10 +43,10 @@ Institute of Agrophysics of the Polish Academy of Sciences in Lublin
 
 Piotr Kulczycki, Piotr A. Kowalski, Szymon Lukasik, Slawomir Zak Department of Automatic Control and Information Technology,
 Cracow University of Technology, Warszawska 24, PL 31-155 Cracow, Poland and Systems Research Institute, Polish Academy of Sciences, Newelska 6,
-PL 01-447 Warsaw, Poland e-mail: {kulczycki,pakowal,slukasik,slzak}@ibspan.waw.pl
+PL 01-447 Warsaw, Poland.
 
 MaÅ‚gorzata Charytanowicz, Jerzy Niewczas Institute of Mathematics and Computer Science, The John Paul II Catholic University of Lublin, KonstantynÃ³w 1 H,
-PL 20-708 Lublin, Poland, e-mail: {mchmat,jniewczas}@kul.lublin.pl
+PL 20-708 Lublin, Poland.
 
 ## Contact and Questions
 If you have any questions please contact Jkhoury10000@gmail.com
