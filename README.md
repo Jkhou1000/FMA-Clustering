@@ -48,5 +48,5 @@ PL 01-447 Warsaw, Poland e-mail: {kulczycki,pakowal,slukasik,slzak}@ibspan.waw.p
 MaÅ‚gorzata Charytanowicz, Jerzy Niewczas Institute of Mathematics and Computer Science, The John Paul II Catholic University of Lublin, KonstantynÃ³w 1 H,
 PL 20-708 Lublin, Poland, e-mail: {mchmat,jniewczas}@kul.lublin.pl
 
-##Contact and Questions
+## Contact and Questions
 If you have any questions please contact Jkhoury10000@gmail.com
