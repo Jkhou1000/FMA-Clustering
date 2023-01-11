@@ -31,8 +31,11 @@ Silhouette Score said 2 clusters was optimal, while Inertias said 3 was. Both we
 ![K2scatter](https://user-images.githubusercontent.com/105755535/208749307-e63dedc6-02f2-45f6-969f-a225acc01972.png)
 ![K3Scatter](https://user-images.githubusercontent.com/105755535/208749318-14384372-88f2-491f-a67b-8717b200a955.png)
 
-![K2](https://user-images.githubusercontent.com/105755535/208748040-65153640-1f22-4a9f-977b-9bb93528c8b6.png)
-![K3](https://user-images.githubusercontent.com/105755535/208748045-257a7713-d9ba-4640-ac48-b5c830cc492b.png)
+![5029d7e9-003e-4336-a401-7d88ebb09abb](https://user-images.githubusercontent.com/105755535/211912497-9ccb0865-eb36-42f7-97f8-fc8726e20035.png)
+![63cf7b79-f1e7-40dd-a325-d75f9524e51d](https://user-images.githubusercontent.com/105755535/211912537-2dd98355-5ed3-43f2-a59c-ac6d73d1ab7f.png)
+
+
+
 
 ## Next Steps:
 Use on bigger datasets may be required to see if 3 clusters is optimal for the same seeds in largers sizes. Test out different types of clutsering methods to see if other models are more accurate. Create more exploratory Data Viz.
